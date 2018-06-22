@@ -16,6 +16,6 @@ class Shoe
   def brand 
     @brand = brand
     if brand != 
-    i chan
+    BRANDS << brand
   end
 end
